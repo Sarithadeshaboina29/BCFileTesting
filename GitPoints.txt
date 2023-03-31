@@ -1,0 +1,5 @@
+New Project New Audit Old Git Config Details it wont work.
+
+Go to Git Config Details Change IS GIT SYNC FROM 1 TO 0   It will work.
+
+Old Project Old Audit just change the content in the file or Creating new file or Rename it will works.
